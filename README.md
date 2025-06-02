@@ -17,13 +17,6 @@ While a user is navigating, if their route passes within a specified radius (e.g
 For example:
 Imagine you're driving to a friend's place across town. Unknown to you, you're passing just 500 meters away from the museum you saved six months ago. With this feature, you'd get a non-intrusive prompt:
 
-**🔧 Core Components**
-
-Access to user’s saved locations via Maps API
-Real-time route tracking
-Radius-based matching engine
-UI/UX prompts for suggestions and detours
-
 **🚀 Benefits**
 
 My proposed solution is simple but impactful:
@@ -33,6 +26,13 @@ Surfaces long-forgotten saved places at relevant moments.
 Increases user engagement with personal lists
 
 Turns routine travel into discovery opportunities
+
+**🔧 Core Components**
+
+Access to user’s saved locations via Maps API
+Real-time route tracking
+Radius-based matching engine
+UI/UX prompts for suggestions and detours
 
 🛠️ **Possible Implementation Tools**
 
