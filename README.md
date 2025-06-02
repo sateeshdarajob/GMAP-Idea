@@ -1,5 +1,5 @@
-# GMAP-Idea
-An idea for enhancing Google Maps is to alert users about saved places along their current route.
+# Google Maps
+An idea for enhancing Google Maps is to alert users about **saved places** along their current route.
 
 
 **🗺️ Smart Wish List Route Alerts for Google Maps (Concept Proposal)**
