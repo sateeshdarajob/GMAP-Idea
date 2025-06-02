@@ -3,7 +3,9 @@ An idea for enhancing Google Maps is to alert users about saved places along the
 
 
 **🗺️ Smart Wish List Route Alerts for Google Maps (Concept Proposal)**
+
 **🧠 Idea Summary**
+
 **A context-aware notification feature for Google Maps that alerts users when they are navigating near a saved location from their “Want to Go,” “Favorites,” or other saved lists.**
 
 **🚀 Introduction or 📍 Use Case**
